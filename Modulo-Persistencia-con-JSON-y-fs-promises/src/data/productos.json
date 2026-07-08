@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cuaderno de Computación Kinal",
+    "precio": 18.5,
+    "stock": 45
+  },
+  {
+    "id": 2,
+    "nombre": "Lapicero Gel Negro",
+    "precio": 4.25,
+    "stock": 120
+  },
+  {
+    "id": 3,
+    "nombre": "Awita",
+    "precio": 67,
+    "stock": 67
+  }
+]
