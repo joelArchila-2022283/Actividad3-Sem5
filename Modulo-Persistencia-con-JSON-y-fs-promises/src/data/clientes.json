@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombreCompleto": "Joel Archila",
+    "correo": "joel@correo.com",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombreCompleto": "Carlos Mendoza",
+    "correo": "carlos.mendoza@kinal.edu.gt",
+    "activo": true
+  }
+]
